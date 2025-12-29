@@ -109,6 +109,3 @@ This project is licensed under the [Apache License 2.0](https://www.apache.org/l
 
 - Contact the author via [GitHub](https://github.com/Vyzer9)
 
-<img width="350" height="395" alt="image" src="https://github.com/user-attachments/assets/19b0f8b8-e931-4293-ae43-65ef93561c9e" />
-
-
